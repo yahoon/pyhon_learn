@@ -20,7 +20,7 @@
 
 ## boolean
     - bool
-Bool has 2 values only: True  vs False
+Bool has 2 values only: True  & False
 
 
 # operations

@@ -26,7 +26,9 @@ print("###########################")
 # int.bit_length()
 # print the length binary bits
 # print: 最少用多少bit位来表示这个数字
-# 1 -> 1, 2 -> 2, 3 -> 2, 4 -> 3
+# e.g.
+#     1 -> 1, 2 -> 2, 3 -> 2, 4 -> 3
+
 a = 5
 print(a, a.bit_length())
 
